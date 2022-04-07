@@ -32,7 +32,7 @@ export default {
         {
           id: 2,
           name: 'Rob',
-          token: 'dummy-token',
+          token: '0f0fd8f2-409e-4602-8c08-57503d9cf379',
           heartRate: 0,
           measuredAt: null
         },
