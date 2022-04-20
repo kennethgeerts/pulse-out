@@ -25,7 +25,7 @@ export default {
          {
           id: 1,
           name: 'Kenneth',
-          token: '018da12d-2e1d-4e26-ba66-4ef20ad38238',
+          token: '84a23eee-28ee-4946-9066-8291b8816d93',
           heartRate: 0,
           measuredAt: null
         },
